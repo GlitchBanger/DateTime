@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "jest": "^28.1.1",
+    "jest-environment-jsdom": "^28.1.1"
+  },
+  "scripts": {
+    "test": "jest --env=jsdom"
+  },
+  "name": "date",
+  "jest": {
+    "verbose": true
+  }
+}
